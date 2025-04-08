@@ -49,7 +49,6 @@
 import React, { useState } from "react";
 import "./App.css";
 import { RepoList } from "./components/RepoList";
-import { RepoReadme } from "./components/RepoReadme";
 import { CommitsChart } from "./components/CommitsChart";
 
 function App() {
