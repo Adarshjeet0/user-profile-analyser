@@ -34,6 +34,6 @@ Make sure you have the following installed:
 ### 📥 Installation
 
 ```bash
-git clone https://github.com/yourusername/user-profile-analyzer.git
+git clone https://github.com/adarshjeet0/user-profile-analyser.git
 cd user-profile-analyzer
 npm install
